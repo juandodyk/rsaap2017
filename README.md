@@ -2,7 +2,7 @@ Replication data for Dodyk, J. and Ruiz Nicolini, J. P. (2017). ["Enchufes, espe
 
 # Corrientes
 
-Análisis de la elección de Corrientes capital 2017 para intendente y concejales
+Análisis de la elección de la ciudad de Corrientes (Argentina) 2017 para las categoras intendente y concejales.
 
 Archivos:
 * `analisis.R` Script en R que corre modelos para estimar efectos de la BUE
@@ -19,7 +19,7 @@ Extras:
 
 # Chaco
 
-Análisis de la elección de Chaco 2017 para diputados provinciales
+Análisis de la elección de la provincia de Chaco (Argentina) 2017 para la categora de diputados provinciales.
 
 Datos:
 * `resultados.csv` Tabla con resultados por mesa
